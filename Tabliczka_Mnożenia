@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main() zmiana Karola 
 {
     printf("Tabliczka mnożenia\n");
     printf("\n");
